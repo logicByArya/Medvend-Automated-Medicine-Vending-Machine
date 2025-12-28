@@ -1,4 +1,4 @@
-# Medvend-Automated-Medicine-Vending-Machine
+# Medvend:Automated-Medicine-Vending-Machine
 Abstract
 
 Enhancing efficiency in modern healthcare systems is essential to improve patient outcomes and reduce treatment delays. This project presents an Automatic Medicine Vending Machine designed to provide fast, accurate, and secure access to prescribed medicines. The system verifies patient login credentials linked to a doctor’s prescription and automatically dispenses the correct medication in the required quantity. A simple web-based interface ensures ease of use and improves overall patient experience.
